@@ -1,7 +1,7 @@
 /**
  * @name NitroStream
  * @version 1.0.0
- * @description Allow you stream hq !
+ * @description allows you to stream in high quality without Nitro !
  * @author haxvzje#0901
  * @authorId 787936379199291392
  * @website https://hatomagi.website/
