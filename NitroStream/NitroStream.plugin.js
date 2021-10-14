@@ -5,7 +5,7 @@
  * @author haxvzje#0901
  * @authorId 787936379199291392
  * @website https://hatomagi.website/
- * @source https://github.com/haxvzje/BetterDiscordAddons/NitroStream
+ * @source https://github.com/haxvzje/BetterDiscordAddons/tree/main/NitroStream
  */
 
 
