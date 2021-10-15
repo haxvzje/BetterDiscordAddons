@@ -1,4 +1,4 @@
-#NitroStream Plugin
+# NitroStream Plugin
 
 Allows you to stream in high quality without Nitro !
 
